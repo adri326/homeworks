@@ -94,13 +94,44 @@ Nonetheless, FIFA has the monopole over this part of the football industry, and 
 
 **Theme:** Racial issues in the US
 
-**Problématique:** How was <..> a great figure of the fight against segregation in the US?
+**Problématique:**
+<!-- How is Ruby Bridges amongst the great figures of the fight against segregation in the US? -->
+How did great figures of the fight against segregation change the racial situation in the US?
 
 ### I) A period of segregation
 
 <!-- Looking at the median family wealth by ethnicity between 1963 and 2016, we can see that there is a clear, marked gap between white and black or hispanic families. -->
 
-After the end of the Civil War in 1865, slavery was abolished. However, segregation kept going on.
+<!-- Segregation first started with slavery: the first African slaves were brought in 1619.
+Soon after that, slaves were used throughout the American Colonies, in cotton or in sugar cane fields.
+They so were forced to work, unpaid, in hard conditions, after having made a ride from Africa to America in similar conditions. -->
 
+After the end of the Civil War in 1865, slavery was abolished. However, this did not stop segregation from going on.
 For instance, the Ku Klux Klan, which was founded in 1866, had the objective to terrorize blacks and their supporters.
 They did this through elaborate disguises, rituals, whippings and lynchings.
+Their racial objectives led to the death of countless "non-white" people.
+
+Similarly, a photograph from August 1930 of people dancing on the foreground reveal two young, black men hanging from a tree.
+These two had, during a failed robbery attempt, killed a white man.
+Having heard from that, a mob broke into the jail the two were in, beat them to death and hung them on this tree.
+
+Attacks on black people extend past the middle of the 20th century. We can see this in Norman Rockwell's painting "The Problem we all live with".
+On this picture, we can see a young, black girl in a white dress. She is going to school, as shown by the books she is holding in her hand.
+Around her are 4 guards, wearing a "Deputy US Marshall" armband. They are here to protect the girl from attacks, which are represented by the thrown tomato on the background wall, the word "nigger" and the word "KKK" written on the wall.
+
+### II) The fight against segregation
+
+The young girl on the painting by Norman Rockwell is Ruby Bridges: she is the first African-American child to integrate an all-white-school in Louisianna in the 60s.
+This painting became the symbol of the fight for equal rights. This is also why it has been exhibited in the White House in 2011 with the support of Barack Obama.
+
+Also, Lewis Allan wrote a song about hung, black men and women, called "Strange Fruit".
+This song compares hung people to "strange fruits", where the oppositions between pleasant and unpleasant descriptions shock the listener and every pleasant evocation is ruined by the mental sight of death.
+This is meant to make the audience react and feel disgusted by lynching.
+
+Finally, one of the figures who remain widely-known for their implication in the fight against racial segregation is Martin Luther King Jr.
+He had a great impact on this topic, through his activism and inspirational speeches.
+He was also the one responsible for the creation of the Civil Rights Act and the Voting Rights Act in 1964 and 1965 respectively, which put an official end to the discrimination in education and voting.
+
+He received, in 1964, the Novel Peace Prize.
+
+**All of these figures and their activism led to the end of racial segregation in the US.**
